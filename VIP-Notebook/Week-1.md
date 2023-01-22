@@ -10,8 +10,7 @@ I'm familiar with numpy at least so hopefully it won't be too bad. Unfortunately
 I can't get my code to do what I want it to do, so I'm taking a break. Here's
 a look at what I currently have:
 
-`
-    import numpy as np
+`    import numpy as np
 
 
     alpha = 3
