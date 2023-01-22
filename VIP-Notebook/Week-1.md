@@ -10,7 +10,7 @@ I'm familiar with numpy at least so hopefully it won't be too bad. Unfortunately
 I can't get my code to do what I want it to do, so I'm taking a break. Here's
 a look at what I currently have:
 
-`
+```
     import numpy as np
 
 
@@ -39,7 +39,7 @@ a look at what I currently have:
     x = np.linalg.lstsq(b, A)
 
     print(f"{A}\n\n{b}\n\n{x}")
-`
+```
 
 
 
