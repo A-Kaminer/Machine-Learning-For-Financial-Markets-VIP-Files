@@ -1,4 +1,4 @@
-# Week 1 (January 16)
+# Week 1 (January 16 - January 22)
 
 ## 1/19/23
 
