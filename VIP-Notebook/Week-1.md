@@ -76,5 +76,7 @@ with this VIP hehe.
 
 I also started my notebook today. You are reading it right now lol. Found a 
 cheat sheet that's pretty helpful. [Here](https://www.markdownguide.org/cheat-sheet/)
+There's also this useful tool for testing markdown locally [here](https://github.com/joeyespo/grip).
+Pretty easy to work with.
 
 **Total hours today: 3**
