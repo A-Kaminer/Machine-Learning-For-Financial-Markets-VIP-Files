@@ -41,5 +41,5 @@ a look at what I currently have:
     print(f"{A}\n\n{b}\n\n{x}")
 ```
 
-It doesn't work at all lol. The link to the current code is [here]("https://github.com/A-Kaminer/Machine-Learning-For-Financial-Markets-VIP-FIles/tree/master/Assignment-0")
+It doesn't work at all lol. The link to the current code is [here](https://github.com/A-Kaminer/Machine-Learning-For-Financial-Markets-VIP-FIles/tree/master/Assignment-0)
 
