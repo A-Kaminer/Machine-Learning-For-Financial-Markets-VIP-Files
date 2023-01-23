@@ -45,7 +45,24 @@ It doesn't work at all lol. The link to the current code is [here](https://githu
 
 **Total hours today: 1**
 
-# 1/22/23
+## 1/20/23
+
+### Friday Meeting
+
+We went through an example of messing around with XBLR data and running some
+basic analysis today. It was very interesting. We have a training on python/git
+coming up next Friday. Sounds like the next 3 semesters will be very 
+constructive. They will definitely involve some hard work though. I had no
+idea what most of the ML things Agoston did were today.
+
+TODO:
+- [x] RCR training
+- [ ] Go to python/git training
+- [x] Start documentation
+- [ ] Start researching statistics and ML techniques
+- [x] Mess around with the XBLR dataset and watch the video
+
+## 1/22/23
 
 ### Getting familiar with the XBLR dataset
 
