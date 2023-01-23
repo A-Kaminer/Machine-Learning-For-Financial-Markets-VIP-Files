@@ -7,7 +7,7 @@ lam = 0.5
 N = 10000
 np.random.seed(0)
 
-A = np.zeros(shape=(N, 3))
+A = np.zeros(shape=(N, 2))
 b = np.zeros(shape=(N, 1))
 
 for i in range(N):
@@ -19,9 +19,10 @@ for i in range(N):
     x2 = alpha + (.2 * x1) + epsilon
 
     y = delta + (1.2 * x1) + np.random.exponential(lam)
-
-    A[i] = [delta, x1, x2]
-    b[i] = [y]
+    
+    # Yi = delta + B1X1i + B2X2i
+    A[i] = [x1, x2]
+    b[i] = [y - delta]
 
 x = np.linalg.lstsq(b, A)
 
