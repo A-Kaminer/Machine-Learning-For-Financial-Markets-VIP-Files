@@ -72,11 +72,13 @@ Oh well. I'm just spewing my thoughts on to paper (keyboard?).
 I put some of the trading club resources in the microsoft teams chat today. 
 Hopefully people appreciate them/ find benefit from them. I need to read 
 through some of them myself in order to figure out what on earth is going on
-with this VIP hehe.
+with this VIP hehe. Finally did the RCR course as well. That was quite a grind.
+It took like two hours. Yikes. I feel like I actually did learn things, though,
+so that's good.
 
 I also started my notebook today. You are reading it right now lol. Found a 
 cheat sheet that's pretty helpful. [Here](https://www.markdownguide.org/cheat-sheet/)
 There's also this useful tool for testing markdown locally [here](https://github.com/joeyespo/grip).
 Pretty easy to work with.
 
-**Total hours today: 3**
+**Total hours today: 4.5**
