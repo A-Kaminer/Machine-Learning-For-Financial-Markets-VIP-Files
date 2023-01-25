@@ -145,4 +145,6 @@ of what I want to do on my research proposal. My idea is to somehow model and
 predict whether or not a firm will become a target of activist investing. 
 There should be all sorts of quantitative and qualitative factors to suggest
 that. I wrestled with LaTeX for a little while, but I think I'm content with
-the proposal. The research paper can be found [here](../Assignment-0/Kaminer-Predicting-Activist-Investing.pdf)
+the proposal. The research paper can be found [here.](../Assignment-0/Kaminer-Predicting-Activist-Investing.pdf)
+I'm glad to have a working proposal done. I just need to get the actual coding
+project done.
