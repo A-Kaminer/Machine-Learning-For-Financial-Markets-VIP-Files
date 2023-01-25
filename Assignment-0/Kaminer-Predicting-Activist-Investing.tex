@@ -1,0 +1,89 @@
+\documentclass[11pt,a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{amsfonts}
+\usepackage{amsmath}
+\usepackage{changepage}
+\usepackage{graphicx}
+\usepackage{indentfirst}
+\usepackage{titlesec}
+\usepackage[makeroom]{cancel}
+\usepackage[margin=1in]{geometry}
+\usepackage{titling}
+
+\renewcommand*{\thesection}{\arabic{section}.}
+\renewcommand*{\thesubsection}{\arabic{section}.\alph{subsection}.}
+\renewcommand*{\thesubsubsection}{\arabic{section}.\alph{subsection}.\arabic{subsubsection}.}
+
+% \titleformat{\section}
+%     {\normalfont\fontsize{13}{13}\bfseries}{\thesection}{1em}{}
+
+
+\title{VIP Research Proposal - Predicting Targets of Activist Investing}
+\author{Andrew Kaminer}
+\date{January 26, 2023}
+\setlength{\droptitle}{-1in}
+\vspace{-1in}
+
+\begin{document}
+
+\maketitle
+
+\thispagestyle{empty}
+
+\section{Introduction}
+
+Activist investing is the act of an institutional investor buying significant
+stock in a firm (often enough to require filing of a Chapter 13D) and attempting
+to influence management, through peaceful and/or aggressive means, to make 
+changes to company structure in order to extract higher shareholder value.
+Brav, Jiang, Partnoy, and Thomas\cite{BravEtAll} state that activist investing
+has existed to some extent since the 1980s. Interestingly, hey note that it has 
+been ineffective in generating returns for shareholders in most forms. 
+However, they show that activist hedge fund investing is in fact successful in 
+improving returns for shareholders.
+
+\section{Proposal}
+
+The paper notes that target firms for activist investing usually follow a few
+criteria. First, they usually have a low market cap relative to their assets.
+Secondly, they usually have high levels of institutional ownership. This author
+proposes that there are likely other signals of a firm that is a target for 
+activist investing. Activist funds may already be aware of and actively 
+monitoring these signals, or the signals may be unutilized and/or unintuitive.
+For instance, how the management sells or buys shares may give an indication 
+of whether or not a firm is a target
+
+The market usually reacts positively to activist investing, creating abnormal
+returns.\cite{BravEtAll} If a model could be constructed that predicts if a 
+firm will be the target of an activist event in the next year, then the author
+hypothesizes that a trading strategy capitalizing on that could produce outsized
+returns. This model could also be used by prospective activist institutional
+investors to identify targets.
+
+\section{Models, Signals, Strategy, Etc}
+
+An incomplete list of possible signals includes: abnormally high management
+compensation, high management turnover, management trading large
+quantities of shares in the company, high employee turnover, low valuation 
+relative to what is normal in the sector, etc. There are many possible signals 
+that could indicate that a firm is a good target for activist investing. 
+
+The model would likely use some form of probit modelling, as the dependent 
+variable is binary (firm will be a target or firm will not be a target). Thus,
+the model will use some form of regression. The exact specifications of such a 
+model need further investigations as the requirements of the model become 
+better understood. 
+
+The average position of a hedge fund in a target is 
+approximately 20 months\cite{BravEtAll}. This suggests that it usually takes 
+about 20 months for a fund to extract what it considers to be maximum value 
+from its investment, which implies that any strategy will be a long term 
+commitment. Ultimately, it is the author's belief that the model is a 
+worthwhile pursuit that can provide benefits to academics, institutional, and 
+retail investors alike.
+
+
+\bibliographystyle{plain}
+\bibliography{refs}
+
+\end{document}

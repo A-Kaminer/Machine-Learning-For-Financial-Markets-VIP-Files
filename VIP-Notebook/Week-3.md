@@ -6,7 +6,7 @@
 very helpful. I think I'll spend some time with it to pick up some of
 the ML and stats that I'm missing.
 
-### Poking Around Research Topics and Papers
+### Poking Around Research Topics and Papers (5 hours)
 
 Looking at the power point from last week's presentation, and a lot of
 the possible directions look like they have very obvious answers, as
@@ -134,4 +134,15 @@ I'm learning things though, and after reading this paper I think I know what I
 want to do. If a model could predict with a reasonable degree of accuracy what
 companies are likely to be targeted by activist investors in the near future,
 they could take long positions on those companies and make outsized(probably not)
-returns.
+returns. The paper talked about probit models, which seems like the way to go
+with this, as being targeted is a binary thing.
+
+## 1/25/23
+
+### Research Proposal (1.5 hours)
+I haven't finished the research paper yet, but I think I have enough of an idea
+of what I want to do on my research proposal. My idea is to somehow model and
+predict whether or not a firm will become a target of activist investing. 
+There should be all sorts of quantitative and qualitative factors to suggest
+that. I wrestled with LaTeX for a little while, but I think I'm content with
+the proposal. The research paper can be found [here](../Assignment-0/Kaminer-Predicting-Activist-Investing.pdf)
