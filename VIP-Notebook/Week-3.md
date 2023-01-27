@@ -148,3 +148,23 @@ that. I wrestled with LaTeX for a little while, but I think I'm content with
 the proposal. The research paper can be found [here.](../Assignment-0/Kaminer-Predicting-Activist-Investing.pdf)
 I'm glad to have a working proposal done. I just need to get the actual coding
 project done.
+
+### Coding Assignment (1 hour)
+I finally got back around to the coding assignment, now that I could look at
+some people's questions. Turns out the output that I thought was nonsense using
+numpy was actually right rip. Oh well. I ended up using statsmodels api. It was
+actually very easy. The code can be found [here.](../Assignment-0)
+
+### Answering Questions (.5 hours)
+I answered a couple of people's questions over teams, and it felt great to 
+actually be able to contribute something. It also made me much more confident
+in my ability to survive and thrive in this VIP.
+
+### Things I want to do in the near future:
+- [ ] Go through some of the modules in the data analysis python course
+- [ ] Finish the research paper I was reading
+
+## 1/27/23
+
+### Meeting with Chan Woo Kim Notes (.75 hours)
+
