@@ -161,10 +161,26 @@ actually be able to contribute something. It also made me much more confident
 in my ability to survive and thrive in this VIP.
 
 ### Things I want to do in the near future:
-- [ ] Go through some of the modules in the data analysis python course
+- [x] Go through some of the modules in the data analysis python course (I did one, plan on doing more - 1/28/23)
 - [ ] Finish the research paper I was reading
 
 ## 1/27/23
 
 ### Meeting with Chan Woo Kim Notes (.75 hours)
+Meeting went well. Talked about all sorts of things related to the VIP and 
+fintech but also just classes in general. Networking is always good.
+
+### PACE Session (4 hours)
+The session was very boring, but I got it over with. I learned a little bit 
+about git, but the stuff I wanted to learn about was at the very end of the
+lecture and we had to rush through it. The lecturer dropped his cheat sheet.
+Very helpful: [Cheat Sheet](https://github.com/shahagam4/technical-notes/blob/main/git_cheatsheet.md). 
+He also dropped his slides. [Slides](https://gtvault-my.sharepoint.com/personal/rrahaman6_gatech_edu/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Frrahaman6%5Fgatech%5Fedu%2FDocuments%2FDocuments%2Fgit%5Fbootcamp%5Fspring%5F2022%2FMS%20QCF%20Git%20101%20Summer%202022%2Epdf&parent=%2Fpersonal%2Frrahaman6%5Fgatech%5Fedu%2FDocuments%2FDocuments%2Fgit%5Fbootcamp%5Fspring%5F2022&ga=1)
+
+Going back up his github tree I can see a whole folder of technical notes [here.](https://github.com/shahagam4/technical-notes)
+
+**Things to Learn More About:**
+- [ ] Git branches and all of that junk
+- [ ] All of the fancy git log parameters
+- [ ] Pull requests
 
