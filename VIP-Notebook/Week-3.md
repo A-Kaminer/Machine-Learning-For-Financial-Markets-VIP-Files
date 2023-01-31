@@ -161,7 +161,7 @@ actually be able to contribute something. It also made me much more confident
 in my ability to survive and thrive in this VIP.
 
 ### Things I want to do in the near future:
-- [x] Go through some of the modules in the data analysis python course (I did one, plan on doing more - 1/28/23)
+- [x] Go through some of the modules in the data analysis python course (Multiple done)
 - [ ] Finish the research paper I was reading
 
 ## 1/27/23
