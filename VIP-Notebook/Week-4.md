@@ -48,3 +48,4 @@ We made a big group chat and made a lettuce meet. No meeting time yet.
 
 Just set up a documentation base using markdown. The link is right 
 [here](https://github.com/A-Kaminer/Machine-Learning-For-Financial-Markets-VIP-FIles/tree/master/Documentation_Base)
+
